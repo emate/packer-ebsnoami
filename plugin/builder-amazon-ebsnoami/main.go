@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/builder/amazon/ebsnoami"
+	"github.com/emate/packer-ebsnoami/builder/amazon/ebsnoami"
 	"github.com/mitchellh/packer/packer/plugin"
 )
 
